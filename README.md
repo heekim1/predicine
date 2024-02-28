@@ -16,3 +16,4 @@ sample_id, t01, t02, t03, …
 
 time_point, average
 
+![Screenshot 2024-02-15 at 4 05 20 PM](https://github.com/heekim1/predicine/assets/6465990/6ada7b9f-d8b5-4c3d-90a3-534d3e6c2f7b)
